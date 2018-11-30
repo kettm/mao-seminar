@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 エルマス
 わかば
 利奈みんと
+大野桜子
 
 # ディレクトリ構成
 ```
